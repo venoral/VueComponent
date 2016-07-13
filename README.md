@@ -1,6 +1,8 @@
 # Vue Component
 
-> Waterfall.vue [瀑布流](https://venoral.github.io/Project/VueCompontent/index.html)
+[VueComponent entry](https://venoral.github.io/Project/VueCompontent/index.html)
+
+> Waterfall.vue 瀑布流
 
 ## Build Setup
 
