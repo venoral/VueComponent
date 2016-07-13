@@ -1,6 +1,6 @@
 # Vue Component
 
-[VueComponent entry](https://venoral.github.io/Demo/VueCompontent/index.html)
+[VueComponent entry](https://venoral.github.io/project/VueCompontent/index.html)
 
 > Waterfall.vue 瀑布流
 
